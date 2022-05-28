@@ -19,6 +19,7 @@ programa
 	  total = idade * 365 + dias + mes *30 
 	  escreva("Você nasceu há " + total)
 	  escreva (" dias")
+	  //pulando uma linha para teste
 	  
 		
 
@@ -30,7 +31,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 288; 
+ * @POSICAO-CURSOR = 382; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
