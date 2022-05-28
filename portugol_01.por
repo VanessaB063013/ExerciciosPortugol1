@@ -16,7 +16,7 @@ programa
 	  leia(dias)
 	  
 		 
-	  total = idade * 365 + dias + mes 
+	  total = idade * 365 + dias + mes *30 
 	  escreva("Você nasceu há " + total)
 	  escreva (" dias")
 	  
@@ -30,7 +30,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 343; 
+ * @POSICAO-CURSOR = 288; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
